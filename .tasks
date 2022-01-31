@@ -1,0 +1,8 @@
+[start]
+command=yarn dev
+cwd=$(VIM_FILEDIR)
+output=terminal
+silent=1
+focus=1
+notify=echo
+save=2
